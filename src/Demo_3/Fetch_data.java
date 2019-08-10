@@ -20,7 +20,6 @@ public class Fetch_data {
 		System.out.println(prob.get("Rollno"));
 		System.out.println(prob.get("browser"));
 		
-		
 	}
 
 }
